@@ -1,0 +1,42 @@
+[2023-08-07 05:20:15] production.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', 'F:\\\\fikrii\\\\Semes...', 122, Array)
+#1 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2023-08-07 05:31:12] production.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', 'F:\\\\fikrii\\\\Semes...', 122, Array)
+#1 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2023-08-07 05:31:42] production.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', 'F:\\\\fikrii\\\\Semes...', 122, Array)
+#1 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 F:\\fikrii\\Semester Akhir\\API_Ndonga\\php-laravel-docker\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
